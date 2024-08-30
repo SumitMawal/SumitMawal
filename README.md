@@ -25,10 +25,11 @@ I'm a passionate network and security engineer based in Pune, Maharashtra, India
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/informedmindsbysumit" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/instagram-1-svgrepo-com.svg" height="30" width="30"></a>
 </p>
+<!--
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SumitMawal&show_icons-true" alt="SumitMawal">
+<img src="https://github-readme-stats.vercel.app/api?username=SumitMawal&show_icons=true" alt="SumitMawal">
 </p>
-
+-->
 
 Let's collaborate, learn, and build amazing things together! 🚀
 
