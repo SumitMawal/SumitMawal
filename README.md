@@ -16,8 +16,9 @@ I'm a passionate network and security engineer based in Pune, Maharashtra, India
 
 ## Connect with Me:
 
-- 📫 **Email:** mawal.sumit22@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sumitmawal/)
+<p align="center">
+<a href="https://www.linkedin.com/in/sumitsmawal" target="_blank"><img src="https://cdn.jsdeliver.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+</p>
 
 
 Let's collaborate, learn, and build amazing things together! 🚀
