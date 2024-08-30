@@ -17,10 +17,16 @@ I'm a passionate network and security engineer based in Pune, Maharashtra, India
 ## Connect with Me:
 
 <p>
-  <a href="https://www.linkedin.com/in/sumitsmawal" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-  <a href="mawal.sumit22@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"></a>
-  <a href="https://www.youtube.com/@SumitM_informedminds" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30"></a>
-  <a href="https://www.instagram.com/informedmindsbysumit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/sumitsmawal" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/linkedin-svgrepo-com%20(1).svg" height="30" width="30"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mawal.sumit22@gmail.com" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/Gmail.svg" height="30" width="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@SumitM_informedminds" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/youtube-color-svgrepo-com.svg" height="30" width="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/informedmindsbysumit" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/instagram-1-svgrepo-com.svg" height="30" width="30"></a>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=SumitMawal&show_icons-true" alt="SumitMawal">
 </p>
 
 
