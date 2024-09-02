@@ -1,6 +1,6 @@
 # Hi, I'm Sumit Mawal! 👋
 
-I'm a passionate network and security engineer based in Pune, Maharashtra, India. With a strong background in configuring **Checkpoint, Palo Alto firewalls** and **F5** I've honed my skills in User-ID, Content-ID, App-ID, security profiles, NAT, policy management, and more. Additionally, I've delved into **AWS** and **Python** automation scripts, documenting my experiences on GitHub.
+I'm a passionate **Network and Security engineer** with over **5.5 years** of **experience**, based in Pune, Maharashtra, India. With a strong background in configuring **Checkpoint (CCSA R81), Palo Alto, Barracuda firewalls, Router, Switches** and **F5** I've honed my skills in User-ID, Content-ID, App-ID, security profiles, NAT, policy management, and more. Additionally, I've delved into **AWS** and **Python** automation scripts, documenting my experiences on GitHub.
 
 ## What I'm Up To:
 
